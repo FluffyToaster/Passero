@@ -1,11 +1,12 @@
 Parts req:
 - Brushless motor
-  - https://hobbyking.com/nl_nl/mrt2205l-brushless-motor-for-rc-model-aircraft-cw-ccw.html
+  - https://hobbyking.com/nl_nl/brushless-motor-d2826-1100kv-turnigy.html
 - ESC for motor 
   - https://hobbyking.com/nl_nl/hobby-king-20a-esc-3a-ubec.html
 - Servo's
+  - https://hobbyking.com/nl_nl/hxt900-micro-servo-1-6kg-0-12sec-9g.html
+  - https://hobbyking.com/nl_nl/turnigytm-tgy-50090m-analog-servo-mg-1-6kg-0-08sec-9g.html
 - LiPo battery
+  - https://hobbyking.com/nl_nl/turnigy-2200mah-3s-20c-lipo-pack.html
 - RC receiver
 - RC controller
-- Board (RasPi Zero W)
-
